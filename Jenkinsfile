@@ -24,6 +24,6 @@ pipeline{
       steps{
        echo"deploy to uat"
         }
-       }
+      }
    }
 }
